@@ -40,7 +40,6 @@ crearBarra(php);
 let ilustrator = document.getElementById("ilustrator");
 crearBarra(ilustrator);
 
-
 let contadores = [-1,-1,-1,-1,-1,-1];
 
 let entro = false;

@@ -10,7 +10,7 @@ html{
 
 .inicio{
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),
-    url(../img/fondo.jpg);
+    url("../img/fondo.jpg");
     background-size: cover;
     background-position: center center;
     color: #fff;
@@ -170,7 +170,7 @@ html{
     padding: 80px 0 100px 0;
     text-align: center;
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),
-    url(../img/habilidades.jpg);
+    url("../img/habilidades.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
@@ -271,7 +271,6 @@ html{
     border-left: 1px solid #bab9b9;
     padding-left: 20px;
 }
-
 .contacto{
     background-color: #202020;
     padding: 140px 0 100px 0;
